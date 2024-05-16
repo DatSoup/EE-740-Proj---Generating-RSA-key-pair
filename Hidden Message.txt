@@ -1,0 +1,10 @@
+mmsi: 263576000
+timestamp: 2016-10-07 00:07:29 UTC
+longitude: 62.7572784424
+latitude: -26.3910827637
+speed: 1.5
+course: 296.0
+heading: 354
+sync_state: 3
+maneuver: 0
+class: AIS
